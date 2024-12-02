@@ -1,0 +1,2 @@
+django-admin startproject myproject #myprojectはアプリに合わせた名前
+cd　myproject
