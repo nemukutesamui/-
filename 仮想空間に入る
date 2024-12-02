@@ -1,0 +1,4 @@
+python -m venv myvenv　#自分の好きな名前
+cd myvenv
+.\Scripts\activate #アクティベートする
+
